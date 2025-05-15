@@ -1,1 +1,2 @@
 # Gyani-Hybrid
+This is a Hybrid-architecture version of Gyani which uses both Python and Javascript. The entire electron app is written in node.js, but the api calls is done by a Python script. This will allow for the nicer user interface provided by electron, as well as the ease-of-packaging, but with all the functionality which python provides.
