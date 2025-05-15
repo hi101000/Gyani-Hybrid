@@ -1,0 +1,11 @@
+{
+  "name": "hybrid-gyani",
+  "version": "0.0.1",
+  "description": "Hybrid version of Gyani AI Assistant",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ishan Roychowdhury",
+  "license": "MIT"
+}
